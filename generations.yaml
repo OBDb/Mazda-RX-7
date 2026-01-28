@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mazda_RX-7"
+
 generations:
   - name: "First Generation (SA/FB)"
     start_year: 1978
